@@ -1,0 +1,5 @@
+project_name= "wild-workouts"
+folder_id = "11717068802"
+user      = "danny.tran@kasna.com.au"
+billing_account = 	"017068-3BC4E5-F70E51"
+repository_name = "wild-workouts"
